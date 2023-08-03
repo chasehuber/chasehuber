@@ -3,7 +3,7 @@
 ## About Me
 My name is Chase! I'm a Full-Stack Software Engineer from Maine currently specializing in goofy side projects while I find a permanent position in tech.
 
-### Where I am on the web
+### Links
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/chasehuber)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chase-huber/)
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://chasehuber.dev/)
