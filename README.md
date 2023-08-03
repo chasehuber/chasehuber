@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## About Me
+My name is Chase! I'm a Full-Stack Software Engineer from Maine currently specializing in goofy side projects while I find a permanent position in tech.
+
+# Where I am on the web
+<a href="https://github.com/chasehuber">
+  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+</a>
+
 <!--
 **chasehuber/chasehuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
