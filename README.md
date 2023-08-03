@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## About Me
 My name is Chase! I'm a Full-Stack Software Engineer from Maine currently specializing in goofy side projects while I find a permanent position in tech.
